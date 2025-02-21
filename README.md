@@ -1,6 +1,3 @@
-> [!CAUTION]
-> This sample is using ArcGIS Maps SDK for JavaScript 4.32-next.128 and Calcite 3.0.0-next.134. This is a pre-release version and is not recommended for production use.
-
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
